@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "719880073327",
+    "project_id": "eventosuv-a5b3e",
+    "storage_bucket": "eventosuv-a5b3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719880073327:android:8513c44177c1a9e36add9a",
+        "android_client_info": {
+          "package_name": "com.lehabimgroup.dashboardeventosuv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPqOkKK9UfkGhYWDqhRHADn82c5DvycMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719880073327:android:f00018336ebcd9d36add9a",
+        "android_client_info": {
+          "package_name": "com.lehabimgroup.eventosuv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPqOkKK9UfkGhYWDqhRHADn82c5DvycMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
